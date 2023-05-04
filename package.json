@@ -2,7 +2,7 @@
   "name": "goosetrack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nataliapovaliy.github.io/GooseTrack/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_bc_39_nataliapovaliy/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.3",
